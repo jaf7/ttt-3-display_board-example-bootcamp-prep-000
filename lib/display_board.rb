@@ -5,10 +5,10 @@ def display_board
   line = puts "#{horiz}"
   # puts "#{three_space}|#{three_space}|"
   # puts "#{horiz}"
-  cells
-  line
-  cells
-  line
-  cells
-  
+  puts cells
+  puts line
+  puts cells
+  puts line
+  puts cells
+
 end
