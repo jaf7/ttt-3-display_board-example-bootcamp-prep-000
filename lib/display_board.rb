@@ -3,9 +3,8 @@ def display_board
   vert = "|"
   horiz = "-----------"
   horiz_space = "   "
-
-  print "#{horiz_space}#{vert}#{horiz_space}"
-  print "#{horiz_space}#{vert}#{horiz_space}"
-  print horiz
+  puts "#{horiz_space}#{vert}#{horiz_space}"
+  # print "#{horiz_space}#{vert}#{horiz_space}"
+  # print horiz
 
 end
