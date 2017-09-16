@@ -3,10 +3,10 @@ def display_board
   three_space = "   "
   # cells = puts "#{three_space}|#{three_space}|"
   # line = puts "#{horiz}"
-  puts "#{three_space}|#{three_space}|"
+  puts "#{three_space}|#{three_space}|#{three_space}"
   puts "#{horiz}"
-  puts "#{three_space}|#{three_space}|"
+  puts "#{three_space}|#{three_space}|#{three_space}"
   puts "#{horiz}"
-  puts "#{three_space}|#{three_space}|"
+  puts "#{three_space}|#{three_space}|#{three_space}"
 
 end
